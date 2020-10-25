@@ -143,6 +143,15 @@
         height: 40px;
         width: 40px;
       }
+    .title1 h1{
+    font-size: 50px;
+    font-weight: 600;
+    }
+}
+@media screen and (max-width: 480px) {
+    .title1 h1{
+    font-size: 40px;
+    }
 }
 /* /media */
 
