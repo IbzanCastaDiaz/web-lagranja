@@ -119,12 +119,12 @@
 #button {
     position: fixed;
     z-index: 3;
-    bottom: 20px;
-    left: 50px;
+    bottom: 65px;
+    left: 20px;
   }
 #button img{
-    height: 60px;
-    width: 60px;
+    height: 75px;
+    width: 75px;
 }
 #button:hover {
     transform: scale(1.1);
@@ -135,14 +135,6 @@
 
 /* media */
   @media screen and (max-width: 720px) {
-    #button {
-        bottom: 10px;
-        left: 10px;
-      }
-    #button img{
-        height: 40px;
-        width: 40px;
-      }
     .title1 h1{
     font-size: 50px;
     font-weight: 600;
