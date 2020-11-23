@@ -110,11 +110,11 @@
     background-color:var(--base2-color);
 }
 .btn-granjaleer {
-    background: white;
+    background: var(--base1-color);
     color: var(--black-color);
 }
 .btn-granjaleer:hover {
-    background-color:#c2c2c2;
+    background-color:var(--base2-color);
 }
 #button {
     position: fixed;
